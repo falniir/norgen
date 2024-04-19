@@ -1,0 +1,78 @@
+{
+    "evaluation_frequency": {
+        "frequency": 1,
+        "period": "epoch"
+    },
+    "test": {
+        "combined": {
+            "loss": [
+                1.3699840307235718
+            ]
+        },
+        "output": {
+            "loss": [
+                1.3699840307235718
+            ],
+            "next_token_perplexity": [
+                17428.681640625
+            ],
+            "perplexity": [
+                31834.35546875
+            ],
+            "sequence_accuracy": [
+                0.0
+            ],
+            "token_accuracy": [
+                0.002447958569973707
+            ]
+        }
+    },
+    "training": {
+        "combined": {
+            "loss": [
+                1.0160317420959473
+            ]
+        },
+        "output": {
+            "loss": [
+                1.0160317420959473
+            ],
+            "next_token_perplexity": [
+                16214.2529296875
+            ],
+            "perplexity": [
+                31837.208984375
+            ],
+            "sequence_accuracy": [
+                0.0
+            ],
+            "token_accuracy": [
+                0.0021275936160236597
+            ]
+        }
+    },
+    "validation": {
+        "combined": {
+            "loss": [
+                1.3478267192840576
+            ]
+        },
+        "output": {
+            "loss": [
+                1.3478267192840576
+            ],
+            "next_token_perplexity": [
+                17352.296875
+            ],
+            "perplexity": [
+                31857.984375
+            ],
+            "sequence_accuracy": [
+                0.0
+            ],
+            "token_accuracy": [
+                0.0017099460819736123
+            ]
+        }
+    }
+}
